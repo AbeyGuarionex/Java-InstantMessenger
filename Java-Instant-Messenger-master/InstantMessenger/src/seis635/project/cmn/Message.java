@@ -11,6 +11,7 @@ public class Message implements Serializable {
 	public static final int LOGOUT = 2;
 	public static final int UPDATE_USERS = 3;
 	public static final int SERVER_RESPONSE = 4;
+	public static final int LEFT_CHAT = 5;
 	
 	
 	private String recipient;

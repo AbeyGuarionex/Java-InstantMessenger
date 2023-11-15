@@ -1,6 +1,7 @@
 package seis635.project.client;
 
 import java.awt.Color;
+
 import java.awt.Container;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
